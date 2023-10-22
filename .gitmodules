@@ -1,0 +1,6 @@
+[submodule "my-first-project"]
+	path = my-first-project
+	url = https://github.com/Nguyen-Tram/my-first-project.git
+[submodule "Q3Expo1"]
+	path = Q3Expo1
+	url = https://github.com/Nguyen-Tram/Q3Expo1
